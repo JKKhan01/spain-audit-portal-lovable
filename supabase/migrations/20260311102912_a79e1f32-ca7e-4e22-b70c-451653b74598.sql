@@ -1,0 +1,1 @@
+DELETE FROM public.attendance WHERE user_id = '55afdb76-ca79-4b89-baa7-c65bc8e804dc';
